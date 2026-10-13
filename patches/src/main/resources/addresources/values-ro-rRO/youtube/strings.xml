@@ -1310,18 +1310,9 @@ Limitări:
 • Culorile pot părea greșite dacă afișajul nu poate afișa efectiv HDR
 • Redarea poate eșua dacă decodorul nu poate gestiona HDR
 • HDR depinde în continuare de clientul de fluxuri video spoof"</string>
-  <string name="morphe_force_avc_codec_title">Forțează codec-ul AVC (H.264)</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Beneficii:
-• Poate îmbunătăți durata de viață a bateriei
-• Poate restabili rezoluțiile video lipsă pe dispozitivele mai vechi
-
-Limitări:
-• Rezoluția maximă este 1080p
-• Redarea video va utiliza mai multe date de internet decât VP9 sau AV1
-• Videoclipurile HDR nu vor utiliza AVC
-• Unele dispozitive nu pot forța AVC"</string>
+  <string name="morphe_video_codec_title">Codec video</string>
+  <string name="morphe_video_codec_entry_default">Implicit</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">Pentru a utiliza această funcție, setați \'Falsificare fluxuri video\' la \'Android VR\' sau \'Android Studio\'.</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Deschide meniul calității avansate</string>
   <string name="morphe_advanced_video_quality_menu_summary">Sare peste meniul de selecție a calității și deschide direct meniul de calitate avansat.</string>

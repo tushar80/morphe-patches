@@ -1310,18 +1310,9 @@ Korlátozások:
 • A színek hibásnak tűnhetnek, ha a kijelző nem tudja valóban megjeleníteni a HDR-t
 • A lejátszás meghiúsulhat, ha a dekódoló nem tudja kezelni a HDR-t
 • A HDR továbbra is a spoof video streams klienstől függ"</string>
-  <string name="morphe_force_avc_codec_title">A funkció használatához állítsa be a \'Videóstreamek hamisítását\' Android VR-re vagy Android Studióra</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Előnyök:
-• Javíthatja az akkumulátor élettartamát
-• Visszaállíthatja a hiányzó videófelbontásokat régebbi eszközökön
-
-Korlátozások:
-• A maximális felbontás 1080p
-• A videólejátszás több internetadatot fog használni, mint a VP9 vagy az AV1
-• A HDR videók nem fogják használni az AVC-t
-• Néhány eszköz nem tudja kikényszeríteni az AVC-t"</string>
+  <string name="morphe_video_codec_title">Videó kodek</string>
+  <string name="morphe_video_codec_entry_default">Alapértelmezett</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">A funkció használatához állítsa a „Videóstreamek hamisítása” beállítást „Android VR” vagy „Android Studio” értékre.</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Nyissa meg a fejlett minőség menüt</string>
   <string name="morphe_advanced_video_quality_menu_summary">A minőségi beállítások menüt kihagyva közvetlenül megnyitja a Speciális minőségi menüt</string>

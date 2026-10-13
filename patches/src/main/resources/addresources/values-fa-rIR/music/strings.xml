@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- app.morphe.patches.music.interaction.jam -->
-  <string name="morphe_music_jam_update_host_controls">پچ Jam میزبان را برای استفاده از توقف و ادامه به‌روزرسانی کنید</string>
+  <string name="morphe_music_jam_update_host_controls">پچ Jam میزبان را به‌روزرسانی کنید تا از توقف موقت و ازسرگیری استفاده کند</string>
   <string name="morphe_music_jam_probe_title">اشتراک‌گذاری صف Jam</string>
   <string name="morphe_music_jam_probe_summary">یک Jam نزدیک را میزبانی کنید یا به آن بپیوندید و صف آن را از طریق Jam Layer ویرایش کنید</string>
   <string name="morphe_music_jam_enabled_title">فعال‌سازی اشتراک‌گذاری صف Jam</string>

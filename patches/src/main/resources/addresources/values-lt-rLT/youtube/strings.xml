@@ -1310,18 +1310,9 @@ Apribojimai:
 • Spalvos gali atrodyti neteisingai, jei ekranas iš tikrųjų negali rodyti HDR
 • Atkūrimas gali nepavykti, jei dekoderis negali apdoroti HDR
 • HDR vis tiek priklauso nuo vaizdo įrašų srautų maskavimo kliento"</string>
-  <string name="morphe_force_avc_codec_title">Priverstinai naudoti AVC (H.264) kodeką</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Privalumai:
-• Gali pagerinti baterijos veikimo laiką
-• Gali atkurti trūkstamas vaizdo raiškas senesniuose įrenginiuose
-
-Apribojimai:
-• Maksimali raiška – 1080p
-• Vaizdo įrašų atkūrimas sunaudos daugiau interneto duomenų nei VP9 arba AV1
-• HDR vaizdo įrašai nenaudos AVC
-• Kai kurie įrenginiai negali priverstinai naudoti AVC"</string>
+  <string name="morphe_video_codec_title">Vaizdo kodekas</string>
+  <string name="morphe_video_codec_entry_default">Numatytasis</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">Norėdami naudoti šią funkciją, nustatykite „Maskuoti vaizdo įrašų srautus“ į „Android VR“ arba „Android Studio“</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Atidaryti išplėstinės kokybės meniu</string>
   <string name="morphe_advanced_video_quality_menu_summary">Praleidžia kokybės pasirinkimo meniu ir tiesiogiai atidaro išplėstinės kokybės meniu</string>

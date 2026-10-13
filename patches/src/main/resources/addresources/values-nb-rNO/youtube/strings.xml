@@ -1310,18 +1310,9 @@ Begrensninger:
 • Farger kan se feil ut hvis skjermen faktisk ikke kan vise HDR
 • Avspilling kan mislykkes hvis dekoderen ikke kan håndtere HDR
 • HDR avhenger fortsatt av klienten som spooffer videostrømmer"</string>
-  <string name="morphe_force_avc_codec_title">Tving AVC (H.264) kodek</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Fordeler:
-• Kan forbedre batterilevetiden
-• Kan gjenopprette manglende videooppløsninger på eldre enheter
-
-Begrensninger:
-• Maksimal oppløsning er 1080p
-• Videospilling vil bruke mer internettdata enn VP9 eller AV1
-• HDR-videoer vil ikke bruke AVC
-• Noen enheter kan ikke tvinge AVC"</string>
+  <string name="morphe_video_codec_title">Videokodek</string>
+  <string name="morphe_video_codec_entry_default">Standard</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">For å bruke denne funksjonen, sett «Forfalsk videostrømmer» til «Android VR» eller «Android Studio»</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Åpne avansert kvalitetsmeny</string>
   <string name="morphe_advanced_video_quality_menu_summary">Hoppover kvalitetselementvalgmenyen og åpner avansert kvalitetsmeny direkte</string>

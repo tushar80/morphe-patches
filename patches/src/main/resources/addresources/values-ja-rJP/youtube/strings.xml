@@ -1312,18 +1312,9 @@ Automotive レイアウト
 • ディスプレイが実際には HDR に対応していない場合、色合いが正常に表示されない場合がある
 • デコーダーが HDR に対応していない場合、動画の再生に失敗する場合がある
 • HDR は、依然として [動画ストリームを偽装] のクライアントに依存する"</string>
-  <string name="morphe_force_avc_codec_title">AVC (H.264) を強制的に使用</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"利点:
-• バッテリー持ちが良くなる可能性がある
-• 古いデバイスで失われた動画解像度を復元できる場合がある
-
-制限事項:
-• 最大解像度が 1080p
-• 動画再生時に VP9 または AV1 よりも多くの通信量を使用する
-• HDR 動画では AVC が使用されない
-• 一部のデバイスでは AVC を強制できない"</string>
+  <string name="morphe_video_codec_title">動画コーデック</string>
+  <string name="morphe_video_codec_entry_default">デフォルト</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">この機能を使用するには、[動画ストリームを偽装] のクライアントを「Android VR」または「Android Studio」に設定してください</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">画質の詳細設定メニューを開く</string>
   <string name="morphe_advanced_video_quality_menu_summary">画質メニューをスキップして画質の「詳細設定」メニューを直接開きます</string>

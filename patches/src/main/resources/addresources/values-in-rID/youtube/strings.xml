@@ -1310,18 +1310,9 @@ Batasan:
 • Warna mungkin terlihat keliru jika layar sebenarnya tidak dapat menampilkan HDR
 • Pemutaran mungkin gagal jika dekoder tidak dapat menangani HDR
 • HDR tetap bergantung pada klien palsukan aliran video"</string>
-  <string name="morphe_force_avc_codec_title">Paksa codec AVC (H.264)</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Manfaat:
-• Dapat meningkatkan daya tahan baterai
-• Dapat memulihkan resolusi video yang hilang pada perangkat lama
-
-Batasan:
-• Resolusi maksimum adalah 1080p
-• Pemutaran video akan menggunakan lebih banyak data internet dibandingkan VP9 atau AV1
-• Video HDR tidak akan menggunakan AVC
-• Beberapa perangkat tidak dapat memaksakan AVC"</string>
+  <string name="morphe_video_codec_title">Codec video</string>
+  <string name="morphe_video_codec_entry_default">Bawaan</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">Untuk menggunakan fitur ini, atur \'Palsukan aliran video\' ke \'Android VR\' atau \'Android Studio\'</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Buka menu kualitas Lanjutan</string>
   <string name="morphe_advanced_video_quality_menu_summary">Melewati menu pemilihan kualitas dan langsung membuka menu kualitas Lanjutan</string>

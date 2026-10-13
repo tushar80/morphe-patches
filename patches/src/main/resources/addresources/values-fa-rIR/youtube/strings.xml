@@ -1310,18 +1310,9 @@ Second \"item\" text"</string>
 • اگر نمایشگر واقعاً نتواند HDR را نشان دهد، رنگ‌ها ممکن است نادرست به نظر برسند
 • اگر رمزگشا نتواند HDR را مدیریت کند، پخش ممکن است شکست بخورد
 • HDR همچنان به کلاینت جریان‌های ویدئویی جعلی وابسته است"</string>
-  <string name="morphe_force_avc_codec_title">اجبار کدک AVC (H.264)</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"مزایا:
-• می‌تواند عمر باتری را بهبود دهد
-• می‌تواند وضوح‌های ویدئویی ازدست‌رفته را در دستگاه‌های قدیمی بازیابی کند
-
-محدودیت‌ها:
-• بیشترین وضوح 1080p است
-• پخش ویدئو نسبت به VP9 یا AV1 از دادهٔ اینترنتی بیشتری استفاده می‌کند
-• ویدئوهای HDR از AVC استفاده نمی‌کنند
-• برخی دستگاه‌ها نمی‌توانند AVC را اجباری کنند"</string>
+  <string name="morphe_video_codec_title">کدک ویدیو</string>
+  <string name="morphe_video_codec_entry_default">پیش‌فرض</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">برای استفاده از این قابلیت، «جعل جریان‌های ویدئویی» را روی «Android VR» یا «Android Studio» تنظیم کنید</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">بازکردن منوی کیفیت پیشرفته</string>
   <string name="morphe_advanced_video_quality_menu_summary">منوی انتخاب کیفیت را رد می‌کند و مستقیماً منوی کیفیت پیشرفته را باز می‌کند</string>

@@ -1305,18 +1305,9 @@ Takmarkanir:
 • Litir geta litið rangt út ef skjárinn getur ekki raunverulega sýnt HDR
 • Spilun getur mistekist ef afkóðarinn ræður ekki við HDR
 • HDR er enn háð spoof-biðlara fyrir vídeóstrauma"</string>
-  <string name="morphe_force_avc_codec_title">Þvinga AVC (H.264) kóðann</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Ávinningur:
-• Getur bætt rafhlöðuáfköfum
-• Getur endurheimt vantar myndbandsálausnina á eldra tæki
-
-Takmörk:
-• Hámarksálausn er 1080p
-• Myndbandsspilun mun nota meiri netgögn en VP9 eða AV1
-• HDR myndbönd munu ekki nota AVC
-• Sum tæki geta ekki neyðt AVC"</string>
+  <string name="morphe_video_codec_title">Vídeókódeki</string>
+  <string name="morphe_video_codec_entry_default">Sjálfgefið</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">Til að nota þennan eiginleika skaltu stilla \'Spoofa myndbandsstrauma\' á \'Android VR\' eða \'Android Studio\'</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Opnaðu Advanced gæðavalmynd</string>
   <string name="morphe_advanced_video_quality_menu_summary">Sleppur yfir valið á gæðum og opnar \'Advanced\' gæðavalmyndina beint</string>

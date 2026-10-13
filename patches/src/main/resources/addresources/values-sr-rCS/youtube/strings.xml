@@ -1310,18 +1310,9 @@ Ograničenja:
 • Boje mogu izgledati pogrešno ako ekran zapravo ne može prikazati HDR
 • Reprodukcija može da ne uspe ako dekoder ne može da obradi HDR
 • HDR i dalje zavisi od klijenta za lažiranje video tokova"</string>
-  <string name="morphe_force_avc_codec_title">Prisiljava AVC (H.264) kodek</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Prednosti:
-• Može poboljšati trajanje baterije
-• Može vratiti nedostajuće rezolucije videa na starijim uređajima
-
-Ograničenja:
-• Maksimalna rezolucija je 1080p
-• Reprodukcija videa će koristiti više internet podataka nego VP9 ili AV1
-• HDR videi neće koristiti AVC
-• Neki uređaji ne mogu prisiliti AVC"</string>
+  <string name="morphe_video_codec_title">Video kodek</string>
+  <string name="morphe_video_codec_entry_default">Подразумеван</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">Da biste koristili ovu funkciju, podesite opciju „Lažirani video strimovi” na „Android VR” ili „Android Studio”</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Otvorite napredni meni kvaliteta</string>
   <string name="morphe_advanced_video_quality_menu_summary">Preskače meni za izbor kvaliteta i direktno otvara meni kvaliteta \"Napredno\"</string>

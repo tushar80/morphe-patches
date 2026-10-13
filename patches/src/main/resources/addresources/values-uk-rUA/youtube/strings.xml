@@ -1309,18 +1309,9 @@ Second \"item\" text"</string>
 • Кольори можуть виглядати неправильно, якщо дисплей насправді не підтримує HDR
 • Відтворення може не вдатися, якщо декодер не може обробити HDR
 • HDR все ще залежить від клієнта підробки відеопотоків"</string>
-  <string name="morphe_force_avc_codec_title">Примусово використовувати кодек AVC (H.264)</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Переваги:
-• Може покращити час роботи від батареї
-• Може відновити відсутні роздільні здатності відео на старіших пристроях
-
-Обмеження:
-• Максимальна роздільна здатність - 1080p
-• Під час відтворення відео буде витрачатися більше інтернет-трафіку, ніж із VP9 чи AV1
-• HDR-відео не використовуватимуть AVC
-• Деякі пристрої не можуть примусово використовувати AVC"</string>
+  <string name="morphe_video_codec_title">Відеокодек</string>
+  <string name="morphe_video_codec_entry_default">Типова</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">Щоб використовувати цю функцію, встановіть \"Підміна відеопотоків\" на \"Android VR\" або \"Android Studio\"</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Відкривати меню якості \"Розширені налаштування\"</string>
   <string name="morphe_advanced_video_quality_menu_summary">Пропускає меню вибору якості та відкриває меню \"Розширенні налаштування\" безпосередньо</string>

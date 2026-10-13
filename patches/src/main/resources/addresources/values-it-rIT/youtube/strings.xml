@@ -1310,18 +1310,9 @@ Limitazioni:
 • I colori potrebbero apparire errati se il display non puo effettivamente mostrare l'HDR
 • La riproduzione potrebbe fallire se il decoder non è in grado di gestire l'HDR
 • L'HDR dipende ancora dal client spoofato dei flussi video"</string>
-  <string name="morphe_force_avc_codec_title">Forza il codec AVC (H.264)</string>
-  <string name="morphe_force_avc_codec_user_dialog_message">"Vantaggi:
-• Può migliorare la durata della batteria
-• Può ripristinare risoluzioni video mancanti su dispositivi più vecchi
-
-Limitazioni:
-• La risoluzione massima è fissata su 1080p
-• La riproduzione video utilizzerà più dati internet rispetto a VP9 o AV1
-• I video HDR non utilizzeranno AVC
-• Alcuni dispositivi non possono forzare l'uso di AVC"</string>
+  <string name="morphe_video_codec_title">Codec video</string>
+  <string name="morphe_video_codec_entry_default">Predefinita</string>
   <!-- 'Spoof video streams' should be the same translation used for 'morphe_spoof_video_streams_screen_title'. -->
-  <string name="morphe_force_avc_codec_not_available">Per utilizzare questa funzionalità, imposta \'Falsificazione dei flussi video\' su \'Android VR\' o \'Android Studio\'</string>
   <!-- video.quality.advancedVideoQualityMenuPatch -->
   <string name="morphe_advanced_video_quality_menu_title">Apri il menu qualità avanzata</string>
   <string name="morphe_advanced_video_quality_menu_summary">Salta il menu di selezione della qualità e apri direttamente il menu qualità avanzate</string>
